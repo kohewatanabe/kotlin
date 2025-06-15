@@ -7,8 +7,6 @@ fun main() {
     println(msg1)
     println(msg2)
 
-    //文字列テンプレートとは？
-    //文字列に任意の埋め込むことのできる機能の事
     var data = arrayOf(1, 2, 3)
     println("配列dataの先頭の値は${data[0]}で、要素数は${data.size}です。")
     println("1+1は、${1+1}です。")
